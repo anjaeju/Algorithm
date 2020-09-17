@@ -6,13 +6,13 @@
     - [x] simple concept
     - [X] commenting code
     - [ ] application for prefix
-
+---
 2. Sorting
   - upload 09.17.2020
   - checklist
     - [x] simple concept
     - [x] how to operate
-    
+---
 3. Tree
   - upload
   - checklist
@@ -20,7 +20,7 @@
     - [ ] BST (Balanced Search Tree)의 결과
     - [ ] heap을 배열로 구현했을 경우 add 알고리즘 수도코드
     - [ ] 위에서 검색, 추가, 삭제의 복잡도
-
+---
 4. etc
   - upload
   - chechlist
