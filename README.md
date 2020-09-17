@@ -4,7 +4,7 @@
   - upload 09.16.2020
   - checklist
     - [x] simple concept
-    - [ ] commenting code
+    - [X] commenting code
     - [ ] application for prefix
 
 2. Sorting
